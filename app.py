@@ -3,7 +3,7 @@ import time
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Judul dan deskripsi
+#judul
 st.title('☕ Simulasi Pemanggangan Biji Kopi Berbasis Web')
 st.write("""
 Selamat datang!  
